@@ -1,0 +1,1 @@
+- This is a tool that can detect if malloc and free are causing memory leaks.
