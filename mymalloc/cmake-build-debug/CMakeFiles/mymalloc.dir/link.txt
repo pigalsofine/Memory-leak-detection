@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/mymalloc.dir/main.c.o CMakeFiles/mymalloc.dir/mymalloc.c.o  -o mymalloc 

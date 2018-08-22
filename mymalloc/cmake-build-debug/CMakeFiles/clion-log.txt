@@ -1,0 +1,4 @@
+/home/wangh/Downloads/clion-2017.3.4/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/wangh/Desktop/内存泄露检查/mymalloc
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/wangh/Desktop/内存泄露检查/mymalloc/cmake-build-debug

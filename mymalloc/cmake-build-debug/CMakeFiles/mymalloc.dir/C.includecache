@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wangh/Desktop/内存泄露检查/mymalloc/main.c
+stdio.h
+-
+mymalloc.h
+/home/wangh/Desktop/内存泄露检查/mymalloc/mymalloc.h
+
+/home/wangh/Desktop/内存泄露检查/mymalloc/mymalloc.c
+zconf.h
+-
+string.h
+-
+printf.h
+-
+stdlib.h
+-
+mymalloc.h
+/home/wangh/Desktop/内存泄露检查/mymalloc/mymalloc.h
+
+/home/wangh/Desktop/内存泄露检查/mymalloc/mymalloc.h
+stdio.h
+-
+

@@ -1,0 +1,3 @@
+/home/wangh/Desktop/内存泄露检查/mymalloc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wangh/Desktop/内存泄露检查/mymalloc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wangh/Desktop/内存泄露检查/mymalloc/cmake-build-debug/CMakeFiles/mymalloc.dir
